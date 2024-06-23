@@ -3,18 +3,6 @@
 </h2>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+MIKEY+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
-</p>
-
-# ʙʀᴀɴᴄʜ
-* <b>𝟸 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore)</b>
-* <b>3 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore/tree/3fsub)</b>
-* <b>ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore/tree/AutoDelete)</b>
-* <b>𝟺 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore/tree/multi-fsub)</b>
-
-* <b>ᴛᴏᴋᴇɴ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/File-Store-Bot-Token-Verification)</b>
-
- ━━━━━━━━━━━━━━━━━
 
 ### Variables
 
@@ -42,12 +30,7 @@
 /stats - checking your bot uptime
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-# ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
 
-</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)</b>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <details>
@@ -58,25 +41,25 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Codeflix-Bots/FileStore">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/shallow090/Store">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/erotixe/FileShareBot2&branch=main&name=main">
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=shallow090/Store&branch=main&name=main">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/Codeflix-Bots/FileStore"">
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/shallow090/Store"">
      <img height="45px" src="https://railway.app/button.svg">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/erotixe/FileShareBot2">
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/shallow090/Store">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a></p>
 <h3 align="center">
@@ -84,7 +67,7 @@
 </h3>
 <p>
 <pre>
-git clone https://github.com/erotixe/FileShareBot2
+git clone https://github.com/shallow090/Store
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -96,13 +79,3 @@ python3 bot.py
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://t.me/codeflix_bots) </b>
-- <b>[ᴍɪᴋᴇʏ](https://github.com/sewxiy)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/cosmic_freak) </b>
- 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix-bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
-
-## 📌  𝑵𝒐𝒕𝒆
-
-ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
